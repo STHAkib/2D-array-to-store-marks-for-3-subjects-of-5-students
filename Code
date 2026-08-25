@@ -31,8 +31,6 @@ int main() {
         else
             grade = 'F';
 
-        printf("Total Marks = %d\n", total);
-        printf("Average = %.2f\n", average);
         printf("Grade = %c\n\n", grade);
     }
 
